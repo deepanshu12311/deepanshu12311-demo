@@ -1,3 +1,3 @@
 # demo
-This is my repository on github
+This is my repository on github.
 Author - Deepanshu Aggarwal
